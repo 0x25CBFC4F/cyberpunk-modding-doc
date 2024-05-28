@@ -2,9 +2,7 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="c2md"
-                 name="void's Cyberpunk Modding Docs"
-                 start-page="main.md">
+<instance-profile id="c2md" name="void's Cyberpunk Modding Docs" start-page="main.md">
 
     <toc-element topic="main.md"/>
     <toc-element topic="systems.md">
