@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <primary-color>#0096b0</primary-color>
+        <noindex-content>false</noindex-content>
+    </variables>
+
+    <footer>
+        <link href="https://next.nexusmods.com/profile/3xnull/about-me">My NexusMods</link>
+        <copyright>3xnull</copyright>
+        <social type="email" href="cdocs@voids.site"/>
+    </footer>
+
+</buildprofiles>

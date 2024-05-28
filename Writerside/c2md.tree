@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="c2md"
+                 name="void's Cyberpunk Modding Docs"
+                 start-page="main.md">
+
+    <toc-element topic="main.md"/>
+    <toc-element topic="systems.md">
+        <toc-element topic="BlackboardSystem.md">
+            <toc-element topic="BlackboardsExplained.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="GlobalFunctions.md">
+        <toc-element topic="GetAllBlackboardDefs.md"/>
+    </toc-element>
+
+    <snippet id="contribute">
+        <toc-element hidden="true" topic="contribute.md" />
+    </snippet>
+</instance-profile>
