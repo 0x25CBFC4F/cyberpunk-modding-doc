@@ -10,7 +10,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/cd2md'
+  INSTANCE: 'Writerside/c2md'
   ARTIFACT: 'webHelpC2MD2-all.zip'
   DOCKER_VERSION: '241.15989'
 
